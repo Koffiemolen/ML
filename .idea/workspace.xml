@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4be59f9-7e90-478e-8e14-422b4a7fd787" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction Scikit-learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction Scikit-learn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_forst_model_1.pk1" beforeDir="false" afterPath="$PROJECT_DIR$/random_forst_model_1.pk1" afterDir="false" />
-    </list>
+    <list default="true" id="d4be59f9-7e90-478e-8e14-422b4a7fd787" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +41,7 @@
       <updated>1683191657962</updated>
       <workItem from="1683191659706" duration="101000" />
       <workItem from="1683191779970" duration="1490000" />
-      <workItem from="1683447479864" duration="580000" />
+      <workItem from="1683447479864" duration="1255000" />
     </task>
     <servers />
   </component>
